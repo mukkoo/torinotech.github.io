@@ -11,7 +11,7 @@
 
 20160112:
   organizer: Wordpress Torino
-  title: Dicembre Episodio 7
+  title: Gennaio Episodio 7
   when: 2016-01-12 18:00:00 +1
   url: http://www.meetup.com/it/WordPress-Meetup-Torino/events/227528713/
   free: true
